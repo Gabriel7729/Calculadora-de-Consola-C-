@@ -17,13 +17,14 @@ namespace Prueba_Github
 
                 Console.WriteLine("Digite el primer número:");
                 double num1 = Convert.ToDouble(Console.ReadLine());
-                Console.WriteLine("Digite el primer número:");
+                Console.WriteLine("Digite el segundo número:");
                 double num2 = Convert.ToDouble(Console.ReadLine());
 
                 Console.WriteLine();
                 Console.WriteLine("¿Qué desea hacer?");
                 Console.WriteLine("Sumar = 1 " +
-                    "Restar = 2");
+                    "Restar = 2 " +
+                    "Multiplicacar = 3");
                 string operador = Console.ReadLine();
 
                 switch (operador)
@@ -32,13 +33,20 @@ namespace Prueba_Github
                         Console.Clear();
                         res = num1 + num2;
                         Console.WriteLine($"El resultado de la suma de {num1} + {num2} = {res}");
-                        desicion = true;
+                        desicion = false;
                         break;
                     case "2":
                         Console.Clear();
                         res = num1 - num2;
                         Console.WriteLine($"El resultado de la resta de {num1} - {num2} = {res}");
-                        desicion = true;
+                        desicion = false;
+                        break;
+
+                    case "3":
+                        Console.Clear();
+                        res = num1 * num2;
+                        Console.WriteLine($"El resultado de la multiplicación de {num1} x {num2} = {res}");
+                        desicion = false;
                         break;
 
                     default:
