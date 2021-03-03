@@ -22,9 +22,9 @@ namespace Prueba_Github
 
                 Console.WriteLine();
                 Console.WriteLine("¿Qué desea hacer?");
-                Console.WriteLine("Sumar = 1 "\n +
-                    "Restar = 2 "\n +
-                    "Multiplicacar = 3" \n +
+                Console.WriteLine("Sumar = 1 " +
+                    "Restar = 2 " +
+                    "Multiplicacar = 3 "  +
                     "Dividir = 4");
                 string operador = Console.ReadLine();
 

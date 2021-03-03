@@ -11,3 +11,16 @@ C:\Users\Lusan\source\repos\Prueba Github\obj\Debug\netcoreapp3.1\Prueba Github.
 C:\Users\Lusan\source\repos\Prueba Github\obj\Debug\netcoreapp3.1\Prueba Github.dll
 C:\Users\Lusan\source\repos\Prueba Github\obj\Debug\netcoreapp3.1\Prueba Github.pdb
 C:\Users\Lusan\source\repos\Prueba Github\obj\Debug\netcoreapp3.1\Prueba Github.genruntimeconfig.cache
+C:\Users\Lusan\Downloads\Calculadora-de-Consola-C-\obj\Debug\netcoreapp3.1\Prueba Github.csprojAssemblyReference.cache
+C:\Users\Lusan\Downloads\Calculadora-de-Consola-C-\obj\Debug\netcoreapp3.1\Prueba Github.AssemblyInfoInputs.cache
+C:\Users\Lusan\Downloads\Calculadora-de-Consola-C-\obj\Debug\netcoreapp3.1\Prueba Github.AssemblyInfo.cs
+C:\Users\Lusan\Downloads\Calculadora-de-Consola-C-\obj\Debug\netcoreapp3.1\Prueba Github.csproj.CoreCompileInputs.cache
+C:\Users\Lusan\Downloads\Calculadora-de-Consola-C-\obj\Debug\netcoreapp3.1\Prueba Github.dll
+C:\Users\Lusan\Downloads\Calculadora-de-Consola-C-\obj\Debug\netcoreapp3.1\Prueba Github.pdb
+C:\Users\Lusan\Downloads\Calculadora-de-Consola-C-\bin\Debug\netcoreapp3.1\Prueba Github.exe
+C:\Users\Lusan\Downloads\Calculadora-de-Consola-C-\bin\Debug\netcoreapp3.1\Prueba Github.deps.json
+C:\Users\Lusan\Downloads\Calculadora-de-Consola-C-\bin\Debug\netcoreapp3.1\Prueba Github.runtimeconfig.json
+C:\Users\Lusan\Downloads\Calculadora-de-Consola-C-\bin\Debug\netcoreapp3.1\Prueba Github.runtimeconfig.dev.json
+C:\Users\Lusan\Downloads\Calculadora-de-Consola-C-\bin\Debug\netcoreapp3.1\Prueba Github.dll
+C:\Users\Lusan\Downloads\Calculadora-de-Consola-C-\bin\Debug\netcoreapp3.1\Prueba Github.pdb
+C:\Users\Lusan\Downloads\Calculadora-de-Consola-C-\obj\Debug\netcoreapp3.1\Prueba Github.genruntimeconfig.cache

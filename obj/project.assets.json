@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lusan\\source\\repos\\Prueba Github\\Prueba Github.csproj",
+      "projectUniqueName": "C:\\Users\\Lusan\\Downloads\\Calculadora-de-Consola-C-\\Prueba Github.csproj",
       "projectName": "Prueba Github",
-      "projectPath": "C:\\Users\\Lusan\\source\\repos\\Prueba Github\\Prueba Github.csproj",
+      "projectPath": "C:\\Users\\Lusan\\Downloads\\Calculadora-de-Consola-C-\\Prueba Github.csproj",
       "packagesPath": "C:\\Users\\Lusan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lusan\\source\\repos\\Prueba Github\\obj\\",
+      "outputPath": "C:\\Users\\Lusan\\Downloads\\Calculadora-de-Consola-C-\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
