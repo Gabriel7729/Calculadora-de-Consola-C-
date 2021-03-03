@@ -12,7 +12,7 @@ namespace Prueba_Github
             while (desicion)
             {
                 Console.Clear();
-                Console.WriteLine("Calculadora");
+                Console.WriteLine("Calculadora V2");
                 Console.WriteLine();
 
                 Console.WriteLine("Digite el primer número:");
@@ -22,9 +22,10 @@ namespace Prueba_Github
 
                 Console.WriteLine();
                 Console.WriteLine("¿Qué desea hacer?");
-                Console.WriteLine("Sumar = 1 " +
-                    "Restar = 2 " +
-                    "Multiplicacar = 3");
+                Console.WriteLine("Sumar = 1 "\n +
+                    "Restar = 2 "\n +
+                    "Multiplicacar = 3" \n +
+                    "Dividir = 4");
                 string operador = Console.ReadLine();
 
                 switch (operador)
@@ -46,6 +47,13 @@ namespace Prueba_Github
                         Console.Clear();
                         res = num1 * num2;
                         Console.WriteLine($"El resultado de la multiplicación de {num1} x {num2} = {res}");
+                        desicion = false;
+                        break;
+
+                    case "4":
+                        Console.Clear();
+                        res = num1 / num2;
+                        Console.WriteLine($"El resultado de la divicion de {num1} entre {num2} = {res}");
                         desicion = false;
                         break;
 
