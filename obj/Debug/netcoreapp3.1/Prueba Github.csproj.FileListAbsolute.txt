@@ -24,3 +24,9 @@ C:\Users\Lusan\Downloads\Calculadora-de-Consola-C-\bin\Debug\netcoreapp3.1\Prueb
 C:\Users\Lusan\Downloads\Calculadora-de-Consola-C-\bin\Debug\netcoreapp3.1\Prueba Github.dll
 C:\Users\Lusan\Downloads\Calculadora-de-Consola-C-\bin\Debug\netcoreapp3.1\Prueba Github.pdb
 C:\Users\Lusan\Downloads\Calculadora-de-Consola-C-\obj\Debug\netcoreapp3.1\Prueba Github.genruntimeconfig.cache
+C:\Users\a\Downloads\ITLA-seaon 6\Prog 3\Calculadora-de-Consola-C-\obj\Debug\netcoreapp3.1\Prueba Github.csprojAssemblyReference.cache
+C:\Users\a\Downloads\ITLA-seaon 6\Prog 3\Calculadora-de-Consola-C-\obj\Debug\netcoreapp3.1\Prueba Github.AssemblyInfoInputs.cache
+C:\Users\a\Downloads\ITLA-seaon 6\Prog 3\Calculadora-de-Consola-C-\obj\Debug\netcoreapp3.1\Prueba Github.AssemblyInfo.cs
+C:\Users\a\Downloads\ITLA-seaon 6\Prog 3\Calculadora-de-Consola-C-\obj\Debug\netcoreapp3.1\Prueba Github.csproj.CoreCompileInputs.cache
+C:\Users\a\Downloads\ITLA-seaon 6\Prog 3\Calculadora-de-Consola-C-\obj\Debug\netcoreapp3.1\Prueba Github.dll
+C:\Users\a\Downloads\ITLA-seaon 6\Prog 3\Calculadora-de-Consola-C-\obj\Debug\netcoreapp3.1\Prueba Github.pdb

@@ -9,6 +9,8 @@ namespace Prueba_Github
             bool desicion = true;
             double res;
 
+           
+
             while (desicion)
             {
                 Console.Clear();
@@ -25,7 +27,8 @@ namespace Prueba_Github
                 Console.WriteLine("Sumar = 1 " +
                     "Restar = 2 " +
                     "Multiplicacar = 3 "  +
-                    "Dividir = 4");
+                    "Dividir = 4" +
+                    "No me jodas");
                 string operador = Console.ReadLine();
 
                 switch (operador)

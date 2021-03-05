@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lusan\\Downloads\\Calculadora-de-Consola-C-\\Prueba Github.csproj": {}
+    "C:\\Users\\a\\Downloads\\ITLA-seaon 6\\Prog 3\\Calculadora-de-Consola-C-\\Prueba Github.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lusan\\Downloads\\Calculadora-de-Consola-C-\\Prueba Github.csproj": {
+    "C:\\Users\\a\\Downloads\\ITLA-seaon 6\\Prog 3\\Calculadora-de-Consola-C-\\Prueba Github.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lusan\\Downloads\\Calculadora-de-Consola-C-\\Prueba Github.csproj",
+        "projectUniqueName": "C:\\Users\\a\\Downloads\\ITLA-seaon 6\\Prog 3\\Calculadora-de-Consola-C-\\Prueba Github.csproj",
         "projectName": "Prueba Github",
-        "projectPath": "C:\\Users\\Lusan\\Downloads\\Calculadora-de-Consola-C-\\Prueba Github.csproj",
-        "packagesPath": "C:\\Users\\Lusan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lusan\\Downloads\\Calculadora-de-Consola-C-\\obj\\",
+        "projectPath": "C:\\Users\\a\\Downloads\\ITLA-seaon 6\\Prog 3\\Calculadora-de-Consola-C-\\Prueba Github.csproj",
+        "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a\\Downloads\\ITLA-seaon 6\\Prog 3\\Calculadora-de-Consola-C-\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lusan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
